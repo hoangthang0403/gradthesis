@@ -1,0 +1,1 @@
+Initialize schema folder in github
