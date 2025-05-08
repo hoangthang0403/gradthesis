@@ -1,0 +1,15 @@
+beautifulsoup4==4.13.3
+huggingface-hub==0.29.3
+keras==3.9.1
+keyboard==0.13.5
+matplotlib==3.10.1
+numpy==2.1.1
+opencv-python==4.10.0.84
+pandas==2.2.3
+scikit-learn==1.6.1
+streamlit==1.44.0
+tensorflow==2.19.0
+torch==2.6.0
+ultralytics==8.3.94	
+vnstock==3.2.2	
+vnstock3==0.3.0.9	
